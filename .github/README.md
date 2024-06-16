@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a97b0a381fa37a82b4213.jpg">
+  <img src="https://graph.org/file/36e171f3c085c78304320.jpg">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
    <p align="center">
-     <img src="https://graph.org/file/6dbf205e018a9e7db2bad.jpg">
+     <img src="https://graph.org/file/36e171f3c085c78304320.jpg">
      </p>
 
 <h3 align="center">
@@ -68,7 +68,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 <p align="center">
-<a href="https://t.me/AKATSUKI_OFFICIAL_0"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Frozensupport1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/SYSTUM). </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/prashantsahlot) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/prashantsahlot/SYSTUM). </b>
